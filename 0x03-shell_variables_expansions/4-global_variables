@@ -1,2 +1,2 @@
 #!/bin/bash
-escort printenv=env
+printenv
